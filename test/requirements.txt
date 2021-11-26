@@ -1,0 +1,4 @@
+cockroachdb
+flask-sqlalchemy
+flask
+python-decouple
